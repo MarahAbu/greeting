@@ -1,0 +1,2 @@
+this command enables us to get an overview of all the commits in a graph
+each commit in a line.
